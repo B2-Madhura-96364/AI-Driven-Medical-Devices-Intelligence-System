@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large preprocessing files
+src/preprocessing/*.json
+src/preprocessing/*.csv
